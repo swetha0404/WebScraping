@@ -1,2 +1,1 @@
-# WebScraping-using-Beautiful-Soup
-Webscraping Project for Hacksprint Hackathon - 2020
+# Hacksprint_PS11_Team-CKR
